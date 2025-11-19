@@ -48,8 +48,7 @@ To build an Android application capable of:
 - Sends HTTP GET requests using **city name** or **coordinates**  
 - Requires a developer API key (free on OpenWeatherMap)  
 
-**Example Request:**  
-`api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY`
+**Example Request:**  `api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY`
 
 ### 4. JSON Parsing
 - Converts JSON responses into Kotlin/Java model objects    
