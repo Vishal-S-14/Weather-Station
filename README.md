@@ -24,11 +24,11 @@ The project demonstrates how to combine **location services**, **runtime permiss
 ## Project Goal
 To build an Android application capable of:
 
-- Fetching device location using Google Play Services  
-- Getting weather data from OpenWeatherMap API  
-- Parsing JSON responses into readable weather metrics  
-- Displaying the data with a clean, modern UI  
-- Allowing city selection and customization (units, intervals, etc.)
+- Fetch device location using Google Play Services  
+- Get the weather data from OpenWeatherMap API  
+- Parse JSON responses into readable weather metrics  
+- Displays the data with a clean, modern UI  
+- Allows city selection and customization (units, intervals, etc.)
 
 ---
 
@@ -52,8 +52,7 @@ To build an Android application capable of:
 `api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY`
 
 ### 4. JSON Parsing
-- Converts JSON responses into Kotlin/Java model objects  
-- Libraries such as **GSON** or **Moshi** can be used  
+- Converts JSON responses into Kotlin/Java model objects    
 - Extracts temperature, humidity, wind speed, weather descriptions, etc.
 
 ---
