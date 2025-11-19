@@ -91,7 +91,6 @@ To build an Android application capable of:
 ### Dark Theme Mode
 - Automatically activates after 6 PM  
 - Lower eye strain  
-- OLED-friendly design  
 
 ### Error Handling
 - Detects disabled GPS/location services  
