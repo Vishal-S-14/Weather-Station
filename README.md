@@ -4,7 +4,7 @@ A beginner-friendly Android application that fetches and displays **real-time we
 ---
 
 ## Project Overview
-**Weather-Station** is an Android app designed to provide up-to-date weather conditions for your current location as well as any chosen city, not just the initially listed three locations.
+**Weather-Station** is an Android app designed to provide up-to-date weather conditions for your current location as well as any chosen city.
 
 The project demonstrates how to combine **location services**, **runtime permissions**, **REST APIs**, and **JSON parsing** in a real mobile application.
 
